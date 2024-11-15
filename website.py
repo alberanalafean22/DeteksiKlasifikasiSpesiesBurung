@@ -119,7 +119,7 @@ html_code = """
         <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fb0b4b79c-5177-448e-9165-4c94954ca2e5%2F3d0d1b32-b8fc-471d-9931-cf2574fbda70%2FLogo-FSains.png/freeze?exp=1731700469&sig=m0nf6_V7_yI87n2FRu3qpHInCkuq3Bcwj9hpivkJXg8" alt="Logo 2" width="75" height="75"> 
         </div>
         <h5><strong>Program Studi Sains Data, Fakultas Sains, Institut Teknologi Sumatera - Taman Nasional Way Kambas</strong></h5>
-        <h5><strong>Dibangun untuk memenuhi Project Based Learning Mata Kuliah SD4102 Deep Learning</strong></h5>
+        <h5><strong>Dibuat untuk memenuhi Project Based Learning Mata Kuliah SD4102 Deep Learning</strong></h5>
     </div>
         
 </body>
