@@ -109,6 +109,7 @@ html_code = """
         <h2><stronng>Kelompok 13 Deep Learning</strong></h2>
         <h2><stronng>Program Studi Sains Data, Fakultas Sains</strong></h2> 
         <h2><strong>Institut Teknologi Sumatera</strong></h2>
+        <h3>ㅤ</h3>
         <h3>Beranggotakan</h3>
         <h4>Rizki Adrian Bennovry-121450073 | Project Manager</h4>
         <h4>Alber Analafean-121450146 | Research & Development Manager</h4>
