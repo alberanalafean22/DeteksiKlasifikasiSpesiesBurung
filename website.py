@@ -114,7 +114,7 @@ html_code = """
         <h4>Alber Analafean-121450146 | Research & Development Manager</h4>
         <h4>NabIlah Andika Fitriani-121450139 | Data Collection & Processing Manager</h4>
         <h4>Catherine Firdhasari Maulina Sinaga-121450072 | Modelling Manager </h4>
-        </h4>Helma Lia Putri-121450100 | Modelling Manager</h4>
+        <h4>Helma Lia Putri-121450100 | Modelling Manager</h4>
     </div>
 
 
