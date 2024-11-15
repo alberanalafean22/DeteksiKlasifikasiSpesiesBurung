@@ -103,13 +103,11 @@ html_code = """
             <input type="submit" value="Upload Audio">
         </form>
     </div>
-    <h3>dan anda akan segera tahu dari spesies apa, dia bisa terbang di Kawasan Taman Nasional Way Kambas yang indah ini!</h3>
     <h3>ㅤ</h3>
     
     <div class="footer">
         <h2><stronng>Kelompok 13 Deep Learning</strong></h2>
-        <h3><stronng>Program Studi Sains Data, Fakultas Sains</strong></h3> 
-        <h3><stronng>Institut Teknologi Sumatera</strong></h3>
+        <h3><stronng>Program Studi Sains Data, Fakultas Sains, Institut Teknologi Sumatera</strong></h3>
         <h3>ㅤ</h3>
         <h3>Anggota Kelompok</h3>
         <h4>Rizki Adrian Bennovry-121450073 | Project Manager</h4>
