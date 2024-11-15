@@ -92,7 +92,7 @@ html_code = """
 </head>
 <body>
     <div> 
-        <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fb0b4b79c-5177-448e-9165-4c94954ca2e5%2F7596a23d-7117-4939-9e4c-614780f24a81%2F01._Logo_itera.png/freeze?exp=1731700445&sig=iPLMldvr6sahFW6QOWcS1_h2nrYP9VG68JSdeKKhVSY" alt="Logo 1" width="50" height="50">    
+        <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fb0b4b79c-5177-448e-9165-4c94954ca2e5%2F74a7d55a-9eed-40c6-ae67-42c77432d433%2F01._Logo_itera.png/freeze?exp=1731700710&sig=wRncR5IAnxyI9C6C9lxNrfQpHI8U9IZ_VVSPSgtRGbk" alt="Logo 1" width="50" height="50">    
         <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fb0b4b79c-5177-448e-9165-4c94954ca2e5%2F3d0d1b32-b8fc-471d-9931-cf2574fbda70%2FLogo-FSains.png/freeze?exp=1731700469&sig=m0nf6_V7_yI87n2FRu3qpHInCkuq3Bcwj9hpivkJXg8" alt="Logo 2" width="50" height="50"> 
         <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fb0b4b79c-5177-448e-9165-4c94954ca2e5%2Ff2a60458-876f-4908-ad89-2317f503a687%2FLogo_2.png/freeze?exp=1731700492&sig=LpXYRYFXUvi7kEU2J3aBEuUF0IFPuhr_ppHBRZuyoRs" alt="Logo 3" width="50" height="50"> 
     </div>
