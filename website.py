@@ -96,7 +96,7 @@ html_code = """
     </div>
     <h1>Deteksi Klasifikasi Suara Kicauan Burung di Taman Nasional Way Kambas berbasis Deep Learning - Metode Transfer Learning (Arsitektur ConvNeXt)</h1>
     
-    <h3>Upload audio burung yang ingin anda ketahui dari spesies mana suara tersebut!</h1>
+    <h3>Yuk, Upload disini audionya, dan anda akan segera tahu burung spesies apa ini!</h3>
     <div class="upload-form">
         <form action="/upload" method="post" enctype="multipart/form-data">
             <input type="file" name="audio" accept="audio/*" required>
