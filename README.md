@@ -2,8 +2,14 @@
 
 Deployment Tugas Besar Deep Learning terkait Implementasi Metode Transfer Learning dalam klasifikasi suara burung di Taman Nasional Way Kambas, Lampung
 
-hosting dan development: streamlit
+Data: Xeno-canto, avibase
 
-bahasa pendukung: python, html, css
+Metode Pengumpulan Data: Data Crawling (APIs)
+
+Metode Model : Transfer Learning (Arsitektur ConvNeXt)
+
+bahasa pemrograman: python, html, css
+
+hosting dan development: streamlit
 
 link website: https://deteksiklasifikasiaudioburungberbasisdeeplearning.streamlit.app/
