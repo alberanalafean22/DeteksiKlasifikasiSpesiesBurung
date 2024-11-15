@@ -119,8 +119,8 @@ html_code = """
         <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fb0b4b79c-5177-448e-9165-4c94954ca2e5%2Ff2a60458-876f-4908-ad89-2317f503a687%2FLogo_2.png/freeze?exp=1731702029&sig=kPIWA6jH3QBT-oUDFVskO5drL8mJz7YiYsOA7D8ENqg" alt="Logo 0" width="75" height="75">
         </div>
         <h3><strong>Program Studi Sains Data, Fakultas Sains, Institut Teknologi Sumatera</strong></h3>
-        <h5><strong>Dibuat untuk memenuhi Project Based Learning Mata Kuliah SD4102 Deep Learning</strong></h5>
         <h2><strong>#DATASCIENCE #ITERAFORSUMATERA</strong></h2>
+        <h5><strong>Dibuat untuk memenuhi Project Based Learning Mata Kuliah SD4102 Deep Learning</strong></h5>
     </div>
         
 </body>
