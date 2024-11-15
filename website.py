@@ -100,8 +100,7 @@ html_code = """
             <input type="submit" value="Upload Audio">
         </form>
     </div>
-    <h3>ㅤ</h3>
-    
+
     <div class="footer">
         <h2><stronng>Kelompok 13 Deep Learning</strong></h2>
         <div>
