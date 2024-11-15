@@ -120,8 +120,7 @@ html_code = """
         </div>
         <h3><strong>Program Studi Sains Data, Fakultas Sains, Institut Teknologi Sumatera</strong></h3>
         <h5><strong>Dibuat untuk memenuhi Project Based Learning Mata Kuliah SD4102 Deep Learning</strong></h5>
-        <h2><strong>#DATASCIENCE</strong></h2>
-        <h2><strong>#ITERAFORSUMATERA</strong></h2>
+        <h2><strong>#DATASCIENCE #ITERAFORSUMATERA</strong></h2>
     </div>
         
 </body>
