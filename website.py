@@ -104,6 +104,7 @@ html_code = """
         </form>
     </div>
     <h3>dan anda akan segera tahu dari spesies apa, dia bisa terbang di Kawasan Taman Nasional Way Kambas yang indah ini!</h3>
+    <h3>ㅤ</h3>
     
     <div class="footer">
         <h2><stronng>Kelompok 13 Deep Learning</strong></h2>
@@ -124,5 +125,5 @@ html_code = """
 """
 
 # Display the HTML in Streamlit
-st.components.v1.html(html_code, height=900, scrolling=False)
+st.components.v1.html(html_code, height=1000, scrolling=False)
 
