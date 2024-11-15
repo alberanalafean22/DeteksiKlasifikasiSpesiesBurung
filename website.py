@@ -96,9 +96,7 @@ html_code = """
         <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fb0b4b79c-5177-448e-9165-4c94954ca2e5%2F3d0d1b32-b8fc-471d-9931-cf2574fbda70%2FLogo-FSains.png/freeze?exp=1731700469&sig=m0nf6_V7_yI87n2FRu3qpHInCkuq3Bcwj9hpivkJXg8" alt="Logo 2" width="100" height="100"> 
         <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fb0b4b79c-5177-448e-9165-4c94954ca2e5%2Ff2a60458-876f-4908-ad89-2317f503a687%2FLogo_2.png/freeze?exp=1731700492&sig=LpXYRYFXUvi7kEU2J3aBEuUF0IFPuhr_ppHBRZuyoRs" alt="Logo 3" width="100" height="100"> 
     </div>
-    <div>
-        <img class="logo" src="https://img.notionusercontent.com/s3/prod-files-secure%2F8cc0a41b-f9e2-4d9a-89b6-094a058ad494%2Fd594354d-d217-4ab5-b188-d31cc44df70f%2F13__1_-removebg-preview.png/freeze?exp=1731781811&sig=jCv2enD3Ca5vs4_NHzkhm36X4QnRGy2YtT0XHxWYhbg" alt="Logo ITE">
-    </div>
+    
     <h1>Deteksi Klasifikasi Suara Kicauan Burung di Taman Nasional Way Kambas berbasis Deep Learning - Metode Transfer Learning (Arsitektur ConvNeXt)</h1>
     
     <h3>Yuk, Upload disini audionya</h3>
@@ -114,6 +112,9 @@ html_code = """
         <h2><stronng>Kelompok 13 Deep Learning</strong></h2>
         <h2><stronng>Program Studi Sains Data, Fakultas Sains</strong></h2> 
         <h2><strong>Institut Teknologi Sumatera</strong></h2>
+        <div>
+            <img class="logo" src="https://img.notionusercontent.com/s3/prod-files-secure%2F8cc0a41b-f9e2-4d9a-89b6-094a058ad494%2Fd594354d-d217-4ab5-b188-d31cc44df70f%2F13__1_-removebg-preview.png/freeze?exp=1731781811&sig=jCv2enD3Ca5vs4_NHzkhm36X4QnRGy2YtT0XHxWYhbg" alt="Logo ITE">
+        </div>
         <h3>ㅤ</h3>
         <h3>Beranggotakan</h3>
         <h4>Rizki Adrian Bennovry-121450073 | Project Manager</h4>
