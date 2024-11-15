@@ -118,7 +118,7 @@ html_code = """
         <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fb0b4b79c-5177-448e-9165-4c94954ca2e5%2F3d0d1b32-b8fc-471d-9931-cf2574fbda70%2FLogo-FSains.png/freeze?exp=1731700469&sig=m0nf6_V7_yI87n2FRu3qpHInCkuq3Bcwj9hpivkJXg8" alt="Logo 2" width="75" height="75"> 
         <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fb0b4b79c-5177-448e-9165-4c94954ca2e5%2Ff2a60458-876f-4908-ad89-2317f503a687%2FLogo_2.png/freeze?exp=1731702029&sig=kPIWA6jH3QBT-oUDFVskO5drL8mJz7YiYsOA7D8ENqg" alt="Logo 0" width="75" height="75">
         </div>
-        <h5><strong>Program Studi Sains Data, Fakultas Sains, Institut Teknologi Sumatera - Taman Nasional Way Kambas</strong></h5>
+        <h3><strong>Program Studi Sains Data, Fakultas Sains, Institut Teknologi Sumatera</strong></h3>
         <h5><strong>Dibuat untuk memenuhi Project Based Learning Mata Kuliah SD4102 Deep Learning</strong></h5>
         <h2><strong>#ITERAFORSUMATERA</strong></h5>
     </div>
