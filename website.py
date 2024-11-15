@@ -115,7 +115,6 @@ html_code = """
         <div>
             <img class="logo" src="https://img.notionusercontent.com/s3/prod-files-secure%2F8cc0a41b-f9e2-4d9a-89b6-094a058ad494%2Fd594354d-d217-4ab5-b188-d31cc44df70f%2F13__1_-removebg-preview.png/freeze?exp=1731781811&sig=jCv2enD3Ca5vs4_NHzkhm36X4QnRGy2YtT0XHxWYhbg" alt="Logo ITE">
         </div>
-        <h3>ㅤ</h3>
         <h3>Beranggotakan</h3>
         <h4>Rizki Adrian Bennovry-121450073 | Project Manager</h4>
         <h4>Alber Analafean-121450146 | Research & Development Manager</h4>
@@ -130,5 +129,5 @@ html_code = """
 """
 
 # Display the HTML in Streamlit
-st.components.v1.html(html_code, height=1070, scrolling=False)
+st.components.v1.html(html_code, height=1200, scrolling=False)
 
