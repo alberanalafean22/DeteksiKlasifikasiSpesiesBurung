@@ -114,9 +114,9 @@ html_code = """
         <h4>Helma Lia Putri-121450100 | Modelling Manager</h4>
 
         <div> 
-        <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fb0b4b79c-5177-448e-9165-4c94954ca2e5%2F74a7d55a-9eed-40c6-ae67-42c77432d433%2F01._Logo_itera.png/freeze?exp=1731702710&sig=mLKjTPjeWiVpbq-xdXAvNUPns73u85ovNmKTSmB_ZvU" alt="Logo 1" width="75" height="75">    
-        <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fb0b4b79c-5177-448e-9165-4c94954ca2e5%2F3d0d1b32-b8fc-471d-9931-cf2574fbda70%2FLogo-FSains.png/freeze?exp=1731702742&sig=Y94SsWjr1UPUrspR9VwEkrkgaROFY1JQi2Pda1anz28" alt="Logo 2" width="75" height="75"> 
-        <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fb0b4b79c-5177-448e-9165-4c94954ca2e5%2Ff2a60458-876f-4908-ad89-2317f503a687%2FLogo_2.png/freeze?exp=1731702029&sig=kPIWA6jH3QBT-oUDFVskO5drL8mJz7YiYsOA7D8ENqg" alt="Logo 0" width="75" height="75">
+        <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fb0b4b79c-5177-448e-9165-4c94954ca2e5%2F4ef07048-cb73-4274-8204-2247101acfff%2F01._Logo_itera.png/freeze?exp=1731731662&sig=d3c0k5gyn-nXI5uUOrmt6lTlIskf3dUT2fKlZx_-XUE" alt="Logo 1" width="75" height="75">    
+        <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fb0b4b79c-5177-448e-9165-4c94954ca2e5%2F0c1fe27f-9ca9-4bf8-81c7-bed7a10e0f88%2FLogo4.png/freeze?exp=1731731716&sig=6TrB1GbpLADV0MNMfbFAALBpVUOZLbtyuCsONGM_Ah4" alt="Logo 2" width="75" height="75"> 
+        <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fb0b4b79c-5177-448e-9165-4c94954ca2e5%2F3c00aad3-a5b8-4b04-a868-187a7302de8e%2FLogo2.png/freeze?exp=1731731734&sig=NXPHB3cInxSkwQAIyl_dPsKXwHu4EMZkpXQ7KsOyIOE" alt="Logo 0" width="75" height="75">
         </div>
         <h3><strong>Program Studi Sains Data, Fakultas Sains, Institut Teknologi Sumatera</strong></h3>
         <h2><strong>#DATASCIENCE #ITERAFORSUMATERA</strong></h2>
