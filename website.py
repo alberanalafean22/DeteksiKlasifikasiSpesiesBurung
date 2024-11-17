@@ -118,7 +118,9 @@ html_code = """
         <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo2.png" alt="Logo 2" width="75" height="75"> 
         <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo3.png" alt="Logo 3" width="75" height="75">
         </div>
-        <h3><strong>Program Studi Sains Data, Fakultas Sains, Institut Teknologi Sumatera</strong></h3>
+        <h3><strong>Program Studi Sains Data</strong></h3>
+        <h3><strong>Fakultas Sains</strong></h3>
+        <h3><strong>Institut Teknologi Sumatera</strong></h3>
         <h2><strong>#DATASCIENCE #ITERAFORSUMATERA</strong></h2>
         <h5><strong>Dibuat untuk memenuhi Project Based Learning Mata Kuliah SD4102 Deep Learning</strong></h5>
     </div>
