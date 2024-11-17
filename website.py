@@ -115,6 +115,7 @@ html_code = """
         <h2><strong>#DATASCIENCE #ITERAFORSUMATERA</strong></h2>
         <h3>ㅤ</h3>
         <h5><strong>© Dibuat untuk memenuhi Project Based Learning Mata Kuliah SD4102 Deep Learning</strong></h5>
+        <h5><strong>© Developer: Alber Analafean</strong></h5>
     </div>
         
 </body>
