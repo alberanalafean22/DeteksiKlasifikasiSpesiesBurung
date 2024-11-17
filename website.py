@@ -108,15 +108,8 @@ html_code = """
         <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo3.png" alt="Logo 3" width="75" height="75">
         <img class="logo" src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo0.png" alt="Logo kelompok" width="75" height="75">
         </div>
-        
-        <h2><stronng>Kelompok 13 Deep Learning</strong></h2>
-        <h3>Beranggotakan</h3>
-        <h4>Rizki Adrian Bennovry-121450073 | Project Manager</h4>
-        <h4>Alber Analafean-121450146 | Research & Development Manager</h4>
-        <h4>NabIlah Andika Fitriani-121450139 | Data Collection & Processing Manager</h4>
-        <h4>Catherine Firdhasari Maulina Sinaga-121450072 | Modelling Manager </h4>
-        <h4>Helma Lia Putri-121450100 | Modelling Manager</h4>
 
+        <h3><stronng>Kelompok 13 Deep Learning</strong></h3>
         <h3><strong>Program Studi Sains Data, Fakultas Sains</strong></h3>
         <h3><strong>Institut Teknologi Sumatera</strong></h3>
         <h2><strong>#DATASCIENCE #ITERAFORSUMATERA</strong></h2>
