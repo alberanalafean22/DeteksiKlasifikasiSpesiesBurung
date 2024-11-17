@@ -115,7 +115,7 @@ html_code = """
         <h3><strong>Institut Teknologi Sumatera</strong></h3>
         <h2><strong>#DATASCIENCE #ITERAFORSUMATERA</strong></h2>
         <h3>ㅤ</h3>
-        <h5><strong>Dibuat untuk memenuhi Project Based Learning Mata Kuliah SD4102 Deep Learning, website ini bisa dimafaatkan sebagai alat monitoring untuk klasifikasi keberagaman spesies burung yang berada di Taman Nasional Way Kambas berdasarkan suara, walaupun untuk klasifikasi spesies burung bisa dideteksi hanya terbatas beberapa sepesies</strong></h5>
+        <h5><strong>Dibuat untuk memenuhi Project Based Learning Mata Kuliah SD4102 Deep Learning, website ini bisa dimanfaatkan sebagai alat monitoring untuk klasifikasi keberagaman spesies burung yang berada di Taman Nasional Way Kambas berdasarkan suara, walaupun untuk klasifikasi spesies burung bisa dideteksi hanya terbatas beberapa sepesies</strong></h5>
         <h5><strong>© Developer Website: Research & Development Manager , Modelling Manager</strong></h5>
     </div>
         
