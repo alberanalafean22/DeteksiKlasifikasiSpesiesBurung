@@ -102,6 +102,13 @@ html_code = """
     </div>
 
     <div class="footer">
+        <div> 
+        <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo1.png" alt="Logo 1" width="75" height="75">    
+        <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo2.png" alt="Logo 2" width="75" height="75"> 
+        <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo3.png" alt="Logo 3" width="75" height="75">
+        <img class="logo" src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo0.png" alt="Logo kelompok" width="75" height="75">
+        </div>
+        
         <h2><stronng>Kelompok 13 Deep Learning</strong></h2>
         <h3>Beranggotakan</h3>
         <h4>Rizki Adrian Bennovry-121450073 | Project Manager</h4>
@@ -110,13 +117,6 @@ html_code = """
         <h4>Catherine Firdhasari Maulina Sinaga-121450072 | Modelling Manager </h4>
         <h4>Helma Lia Putri-121450100 | Modelling Manager</h4>
 
-        <div> 
-        <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo1.png" alt="Logo 1" width="75" height="75">    
-        <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo2.png" alt="Logo 2" width="75" height="75"> 
-        <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo3.png" alt="Logo 3" width="75" height="75">
-        <img class="logo" src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo0.png" alt="Logo kelompok" width="75" height="75">
-        </div>
-        <h3><stronng>Kelompok 13 Deep Learning</strong></h3>
         <h3><strong>Program Studi Sains Data, Fakultas Sains</strong></h3>
         <h3><strong>Institut Teknologi Sumatera</strong></h3>
         <h2><strong>#DATASCIENCE #ITERAFORSUMATERA</strong></h2>
