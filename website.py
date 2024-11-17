@@ -116,7 +116,7 @@ html_code = """
         <h2><strong>#DATASCIENCE #ITERAFORSUMATERA</strong></h2>
         <h3>ㅤ</h3>
         <h5><strong>Dibuat untuk memenuhi Project Based Learning Mata Kuliah SD4102 Deep Learning di Program Studi Sains Data ITERA, website ini dimanfaatkan sebagai alat deteksi untuk klasifikasi keberagaman spesies burung yang berada di Taman Nasional Way Kambas berdasarkan suara, walaupun untuk klasifikasi spesies burung bisa dideteksi hanya terbatas beberapa sepesies. Alat deteksi ini merupakan salahsatu cara langkah dalam mengelola dan monitoring ekosistem darat terkhusus burung, sesuai dengan tujuan SDGS nomor 15 yaitu ""Life on Land" (Kehidupan di Darat) bertujuan untuk melindungi, memulihkan, dan mempromosikan penggunaan ekosistem darat secara berkelanjutan, mengelola hutan secara lestari, memerangi desertifikasi, menghentikan dan membalikkan degradasi lahan, serta menghentikan hilangnya keanekaragaman hayati.</strong></h5>
-        <h5><strong>© Developer Website: Research & Development Manager , Modelling Manager</strong></h5>
+        <h5><strong>© Developer: Team Development Group 13</strong></h5>
     </div>
         
 </body>
