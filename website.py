@@ -120,7 +120,7 @@ html_code = """
         <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/sdgs2.png" alt="sdgs1" width="70" height="70">
         <h5><strong>© Developer: Team Development Group 13</strong></h5>
         <h5>Jika Anda memiliki pertanyaan & saran, silakan kirim email kepada kami:</p>
-        <a href="mailto:deeplearning13project@gmail.com">Kirim Email ke deeplearning13project@gmail.com</a>
+        <a href="mailto:deeplearning13project@gmail.com">send Email to: deeplearning13project@gmail.com (click here)</a>
     </div>
         
 </body>
@@ -128,5 +128,5 @@ html_code = """
 """
 
 # Display the HTML in Streamlit
-st.components.v1.html(html_code, height=1135, scrolling=False)
+st.components.v1.html(html_code, height=1145, scrolling=False)
 
