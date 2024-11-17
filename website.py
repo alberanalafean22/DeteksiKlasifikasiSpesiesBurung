@@ -103,11 +103,11 @@ html_code = """
 
     <div class="footer">
         <div> 
-        <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo1.png" alt="Logo 1" width="75" height="75">    
-        <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo2.png" alt="Logo 2" width="75" height="75"> 
-        <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo3.png" alt="Logo 3" width="75" height="75">
-        <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo0.png" alt="Logo kelompok" width="75" height="75">
-        <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/LogoTN.png" alt="Logo kelompok" width="75" height="75">
+        <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo1.png" alt="Logo 1" width="95" height="95">    
+        <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo2.png" alt="Logo 2" width="95" height="95"> 
+        <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo3.png" alt="Logo 3" width="95" height="95">
+        <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo0.png" alt="Logo kelompok" width="95" height="95">
+        <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/LogoTN.png" alt="Logo kelompok v" width="95" height="95">
         </div>
 
         <h3><stronng>Kelompok 13 Deep Learning</strong></h3>
