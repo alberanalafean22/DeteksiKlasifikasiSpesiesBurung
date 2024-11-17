@@ -115,8 +115,8 @@ html_code = """
         <h2><strong>#DATASCIENCE #ITERAFORSUMATERA</strong></h2>
         <h3>ㅤ</h3>
         <h5><strong>© Dibuat untuk memenuhi Project Based Learning Mata Kuliah SD4102 Deep Learning</strong></h5>
-        <h5><strong>© Developer: </strong></h5>
-        <h5><strong>Rizky Andrian Benovry, Alber Analafean, Nabilah Andika Fitri, Helma Lia Putri, Catherin Firdhasari Maulina Sinaga</strong></h5>
+        <h5><strong>© Developer Website: Research & Development Manager of Team 13 </strong></h5>
+        <h5><strong>© Developer Model: Modelling Manager of Team 13 </strong></h5>
     </div>
         
 </body>
