@@ -104,7 +104,7 @@ html_code = """
     <div class="footer">
         <h2><stronng>Kelompok 13 Deep Learning</strong></h2>
         <div>
-            <img class="logo" src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo0.png" alt="Logo kelompok" width="85" height="85">
+            <img class="logo" src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo0.png" alt="Logo kelompok" width="100" height="100">
         </div>
         <h3>Beranggotakan</h3>
         <h4>Rizki Adrian Bennovry-121450073 | Project Manager</h4>
