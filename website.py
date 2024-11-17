@@ -119,6 +119,8 @@ html_code = """
         <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/sdgs1.png" alt="sdgs1" width="70" height="70">
         <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/sdgs2.png" alt="sdgs1" width="70" height="70">
         <h5><strong>© Developer: Team Development Group 13</strong></h5>
+        <h5>Jika Anda memiliki pertanyaan & saran, silakan kirim email kepada kami:</p>
+        <a href="mailto:deeplearning13project@gmail.com">Kirim Email ke deeplearning13project@gmail.com</a>
     </div>
         
 </body>
