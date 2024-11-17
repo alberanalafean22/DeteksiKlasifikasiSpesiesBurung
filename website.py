@@ -104,7 +104,7 @@ html_code = """
     <div class="footer">
         <h2><stronng>Kelompok 13 Deep Learning</strong></h2>
         <div>
-            <img class="logo" src="https://img.notionusercontent.com/s3/prod-files-secure%2F8cc0a41b-f9e2-4d9a-89b6-094a058ad494%2Fd594354d-d217-4ab5-b188-d31cc44df70f%2F13__1_-removebg-preview.png/freeze?exp=1731781811&sig=jCv2enD3Ca5vs4_NHzkhm36X4QnRGy2YtT0XHxWYhbg" alt="Logo ITE">
+            <img class="logo" src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo0.png" alt="Logo ITE">
         </div>
         <h3>Beranggotakan</h3>
         <h4>Rizki Adrian Bennovry-121450073 | Project Manager</h4>
@@ -114,9 +114,9 @@ html_code = """
         <h4>Helma Lia Putri-121450100 | Modelling Manager</h4>
 
         <div> 
-        <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fb0b4b79c-5177-448e-9165-4c94954ca2e5%2F4ef07048-cb73-4274-8204-2247101acfff%2F01._Logo_itera.png/freeze?exp=1731731662&sig=d3c0k5gyn-nXI5uUOrmt6lTlIskf3dUT2fKlZx_-XUE" alt="Logo 1" width="75" height="75">    
-        <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fb0b4b79c-5177-448e-9165-4c94954ca2e5%2F0c1fe27f-9ca9-4bf8-81c7-bed7a10e0f88%2FLogo4.png/freeze?exp=1731731716&sig=6TrB1GbpLADV0MNMfbFAALBpVUOZLbtyuCsONGM_Ah4" alt="Logo 2" width="75" height="75"> 
-        <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fb0b4b79c-5177-448e-9165-4c94954ca2e5%2F3c00aad3-a5b8-4b04-a868-187a7302de8e%2FLogo2.png/freeze?exp=1731731734&sig=NXPHB3cInxSkwQAIyl_dPsKXwHu4EMZkpXQ7KsOyIOE" alt="Logo 0" width="75" height="75">
+        <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo1.png" alt="Logo 1" width="75" height="75">    
+        <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo2.png" alt="Logo 2" width="75" height="75"> 
+        <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo3.png" alt="Logo 0" width="75" height="75">
         </div>
         <h3><strong>Program Studi Sains Data, Fakultas Sains, Institut Teknologi Sumatera</strong></h3>
         <h2><strong>#DATASCIENCE #ITERAFORSUMATERA</strong></h2>
