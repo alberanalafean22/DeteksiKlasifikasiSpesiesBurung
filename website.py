@@ -103,9 +103,6 @@ html_code = """
 
     <div class="footer">
         <h2><stronng>Kelompok 13 Deep Learning</strong></h2>
-        <div>
-            <img class="logo" src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo0.png" alt="Logo kelompok" width="100" height="100">
-        </div>
         <h3>Beranggotakan</h3>
         <h4>Rizki Adrian Bennovry-121450073 | Project Manager</h4>
         <h4>Alber Analafean-121450146 | Research & Development Manager</h4>
@@ -117,6 +114,7 @@ html_code = """
         <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo1.png" alt="Logo 1" width="75" height="75">    
         <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo2.png" alt="Logo 2" width="75" height="75"> 
         <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo3.png" alt="Logo 3" width="75" height="75">
+        <img class="logo" src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo0.png" alt="Logo kelompok" width="75" height="75">
         </div>
         <h3><strong>Program Studi Sains Data</strong></h3>
         <h3><strong>Fakultas Sains</strong></h3>
