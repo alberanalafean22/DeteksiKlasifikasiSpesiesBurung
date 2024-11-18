@@ -115,16 +115,8 @@ html_code = """
 </html>
 """
 
-
-
-import streamlit as st
-
-# Menambahkan link menggunakan markdown
-
-
-
 # Display the HTML in Streamlit
-st.components.v1.html(html_code, height=550, scrolling=False)
+st.components.v1.html(html_code, height=500, scrolling=False)
 st.markdown("[Informasi Detail Website](https://alberanalafean22.github.io/DeteksiKlasifikasiSpesiesBurung/website-page2.html)")
 
 
