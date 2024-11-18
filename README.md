@@ -10,6 +10,6 @@ Metode Model : Transfer Learning (Arsitektur ConvNeXt)
 
 Bahasa pemrograman: python, html, css
 
-Hosting dan Development: streamlit
+Hosting dan Development: streamlit/flask
 
 link website: 
