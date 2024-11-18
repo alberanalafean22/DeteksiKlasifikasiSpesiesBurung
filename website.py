@@ -39,15 +39,7 @@ html_code = """
             height: 100vh;
             margin: 0;
             text-align: center;
-        }
         
-        h1 {
-            background-color: rgba(0, 128, 0, 0.8);
-            padding: 20px;
-            border-radius: 15px;
-            margin-bottom: 20px;
-            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
-            opacity: 75%;
         
         }
         .upload-form {
