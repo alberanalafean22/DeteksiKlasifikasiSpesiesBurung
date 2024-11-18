@@ -109,7 +109,6 @@ html_code = """
         <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/asset/LogoTN.png" alt="Logo kelompok v" width="100" height="100">
         </div>
         <h4>© Developer: Kelompok 13 Deep Learning</h4>
-        <a href="https://alberanalafean22.github.io/DeteksiKlasifikasiSpesiesBurung/website-page2.html">Informasi Detail Website</a>
     </div>
         
 </body>
