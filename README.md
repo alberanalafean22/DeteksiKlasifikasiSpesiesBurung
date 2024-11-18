@@ -1,6 +1,6 @@
 # DeteksiKlasifikasiSpesiesBurung
 
-
+Kelompok 13 Deep Learning
 
 Data: Xeno-canto, avibase
 
