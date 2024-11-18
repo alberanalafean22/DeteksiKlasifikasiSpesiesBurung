@@ -68,7 +68,7 @@ html_code = """
             font-size: 16px;
         }
         input[type="submit"] {
-            padding: 10px 20px;
+            padding: 10px 5px;
             border: none;
             border-radius: 5px;
             background-color: green;
