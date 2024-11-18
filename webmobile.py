@@ -91,7 +91,7 @@ html_code = """
     </style>
 </head>
 <body>
-    <h1>Deteksi Klasifikasi Suara Kicauan Burung di Taman Nasional Way Kambas berbasis Deep Learning - Metode Transfer Learning (Arsitektur ConvNeXt)</h1>
+    <h1>Deteksi Klasifikasi Suara Kicauan Burung di Taman Nasional Way Kambas</h1>
     
     <h3>Yuk, Upload disini audionya</h3>
     <div class="upload-form">
