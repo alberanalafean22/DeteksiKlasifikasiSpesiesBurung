@@ -109,18 +109,6 @@ html_code = """
         <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/Logo0.png" alt="Logo kelompok" width="85" height="85">
         <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/LogoTN.png" alt="Logo kelompok v" width="85" height="85">
         </div>
-
-        <h3><stronng>Kelompok 13 Deep Learning</strong></h3>
-        <h3><strong>Program Studi Sains Data, Fakultas Sains</strong></h3>
-        <h3><strong>Institut Teknologi Sumatera</strong></h3>
-        <h2><strong>#DATASCIENCE #ITERAFORSUMATERA</strong></h2>
-        <h3>ㅤ</h3>
-        <h5><strong>Dibuat untuk memenuhi Project Based Learning Mata Kuliah SD4102 Deep Learning di Program Studi Sains Data ITERA, website ini dimanfaatkan sebagai alat deteksi untuk klasifikasi keberagaman spesies burung yang berada di Taman Nasional Way Kambas berdasarkan suara, walaupun untuk klasifikasi spesies burung bisa dideteksi hanya terbatas beberapa sepesies. Alat deteksi ini merupakan salahsatu cara langkah dalam mengelola dan monitoring ekosistem darat terkhusus burung, sesuai dengan tujuan SDGS nomor 15 yaitu ""Life on Land" (Kehidupan di Darat) bertujuan untuk melindungi, memulihkan, dan mempromosikan penggunaan ekosistem darat secara berkelanjutan, mengelola hutan secara lestari, memerangi desertifikasi, menghentikan dan membalikkan degradasi lahan, serta menghentikan hilangnya keanekaragaman hayati.</strong></h5>
-        <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/sdgs1.png" alt="sdgs1" width="70" height="70">
-        <img src="https://raw.githubusercontent.com/alberanalafean22/DeteksiKlasifikasiSpesiesBurung/main/sdgs2.png" alt="sdgs1" width="70" height="70">
-        <h5><strong>© Developer: Team Development Group 13</strong></h5>
-        <h5>Saran & pertanyaan bisa hubungi kami melalaui email:</p>
-        <a href="mailto:deeplearning13project@gmail.com">deeplearning13project@gmail.com (click here)</a>
     </div>
         
 </body>
