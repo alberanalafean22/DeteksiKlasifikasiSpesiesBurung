@@ -62,7 +62,7 @@ html_code = """
             margin: 5px 0;
             padding: 5px;
             border: none;
-            border-radius: 5px;
+            border-radius: 3px;
             background-color: white;
             color: black;
             font-size: 12px;
