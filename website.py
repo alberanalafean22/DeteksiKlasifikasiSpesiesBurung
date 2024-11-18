@@ -124,8 +124,7 @@ import streamlit as st
 
 
 # Display the HTML in Streamlit
-st.components.v1.html(html_code, height=600, scrolling=False)
-
+st.components.v1.html(html_code, height=500, scrolling=False)
 st.markdown("[Informasi Detail Website](https://alberanalafean22.github.io/DeteksiKlasifikasiSpesiesBurung/website-page2.html)")
 
 
