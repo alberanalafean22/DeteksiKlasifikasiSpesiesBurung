@@ -53,7 +53,7 @@ html_code = """
             background-color: rgba(255, 255, 255, 0.2);
             border-radius: 10px;
             padding: 15px;
-            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+            box-shadow: 0 4px 13px rgba(0, 0, 0, 0.5);
             display: flex;
             flex-direction: column;
             align-items: center;
