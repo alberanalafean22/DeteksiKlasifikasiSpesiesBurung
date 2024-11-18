@@ -59,8 +59,8 @@ html_code = """
             align-items: center;
         }
         input[type="file"] {
-            margin: 10px 0;
-            padding: 10px;
+            margin: 5px 0;
+            padding: 5px;
             border: none;
             border-radius: 5px;
             background-color: white;
