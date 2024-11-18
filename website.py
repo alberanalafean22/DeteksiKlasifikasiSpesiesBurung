@@ -121,10 +121,12 @@ html_code = """
 import streamlit as st
 
 # Menambahkan link menggunakan markdown
-st.markdown("[Kunjungi Contoh](https://alberanalafean22.github.io/DeteksiKlasifikasiSpesiesBurung/website-page2.html)")
 
 
 
 # Display the HTML in Streamlit
 st.components.v1.html(html_code, height=600, scrolling=False)
+
+st.markdown("[Kunjungi Contoh](https://alberanalafean22.github.io/DeteksiKlasifikasiSpesiesBurung/website-page2.html)")
+
 
