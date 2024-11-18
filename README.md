@@ -12,4 +12,6 @@ bahasa pemrograman: python, html, css
 
 hosting dan development: streamlit
 
-link website: https://deteksiklasifikasiaudioburungberbasisdeeplearning.streamlit.app/
+link website: 
+Desktop/PC: https://deteksiklasifikasiaudioburungberbasisdeeplearning.streamlit.app/
+Mobile: https://mobile-deteksiklasifikasispesiesburung.streamlit.app/
