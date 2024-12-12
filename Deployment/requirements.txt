@@ -1,0 +1,6 @@
+librosa
+tensorflow
+pydub
+matplotlib
+keras
+gdown
